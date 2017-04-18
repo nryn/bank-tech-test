@@ -1,0 +1,16 @@
+User Stories
+------------------------------------
+
+As a client,  so I can keep my money safe , I would like to deposit an amount in to an account.
+As a client,  so I can access my money when I need to,  I would like to be able to withdraw an amount.
+As a client,  so I can keep track of my money over time,  I would like to see a dated history of deposits and withdrawals.
+
+Objects      | Messages
+------------------------------------
+Account	     | have a balance
+	           | have an activity history
+	           | print statement (formatted history)
+Deposit      | have an amount
+	           | have a date
+Withdrawal	 | have an amount
+	           | have a date
